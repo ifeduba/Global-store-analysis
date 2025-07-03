@@ -65,7 +65,8 @@ In 2014, Nigeria faced currency depreciation and oil price volatility which affe
 This might have led to reduced margins or returns after cost conversion.
 
 ## Visualization
-![IMG_4663](https://github.com/user-attachments/assets/d72d28a1-ab1a-42f4-8309-9ecf8df0c453)
+![IMG_4663](https://github.com/user-attachments/assets/4733bf8c-e9e1-453a-916d-2649a58d49f8)
+
 
 ## Recommendation
 To improve profitability and operational efficiency across global markets these  are recommended:
